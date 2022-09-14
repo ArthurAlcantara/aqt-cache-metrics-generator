@@ -1,0 +1,11 @@
+database: "none"
+archetypeVersion: "2.0.7"
+sigla: "aqt"
+package: "br.com.bb.aqt"
+provimentoIIB: "none"
+consumoIIB: "none"
+groupId: "br.com.bb.aqt"
+artifactId: "aqt-cache-metrics-generator"
+version: "0.1.0-SNAPSHOT"
+treinamento: "false"
+createAt: 2022-09-13T14:15:09.211295
